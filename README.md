@@ -1,5 +1,4 @@
-# CODSOFT - Internship Tasks
-# Web Development Tasks
+# CODSOFT - Web Development Internship Tasks
 
 This repository contains three beginner-friendly web development projects using **HTML, CSS, and JavaScript**.
 
