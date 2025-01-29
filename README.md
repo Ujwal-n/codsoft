@@ -1,4 +1,3 @@
-#CODSOFT - Internship Tasks
 
 # Web Development Tasks
 
